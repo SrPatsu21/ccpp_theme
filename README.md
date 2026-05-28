@@ -1,4 +1,13 @@
-# README
+# SRPatsu C/C++ Theme
+
+Maintained fork of xenkuo/ccpp_theme for modern VSCode and VSCodium compatibility.
+
+Original project:
+https://github.com/xenkuo/ccpp_theme
+
+Licensed under the MIT License.
+
+# C/C++ Theme
 
 > **C/C++ Theme** has been upgraded to **C/C++ Pro Theme**. The new version provides enhanced syntax token highlighting and improved support for Python, JavaScript, and more. Search for **C/C++ Pro Theme** in the VSCode marketplace or click [here](https://marketplace.visualstudio.com/items?itemName=Xen.ccpro-theme) to try it. While the original version remains available, it is no longer actively maintained. For advanced syntax highlighting features, please upgrade to **C/C++ Pro Theme**.
 ---
